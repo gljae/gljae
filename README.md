@@ -18,8 +18,6 @@
 	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 </div>
 
-<br> </br>
-
 * * *
 
 <br> </br>
