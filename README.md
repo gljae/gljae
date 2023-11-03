@@ -22,5 +22,5 @@
 
 <br> </br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gijae_05)](https://solved.ac/gijae_05)
 
